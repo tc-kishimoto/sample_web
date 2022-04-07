@@ -1,0 +1,15 @@
+h1 {
+    /* background-color: red; */
+    /* background-color: rgba(100, 200, 50, 50%); */
+    background-color: #EEAA00;
+    
+    width: 20%;
+    height: 300px;
+    border: 3px red solid;
+    padding: 30px 40px 20px 20px;
+    margin: 0;
+}
+
+.aaaa {
+    display: flex;
+}
